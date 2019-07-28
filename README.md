@@ -2,7 +2,7 @@
 
 ### What is mttools?
 
-a daily php toolkit.
+a powerful and simple php toolkit.
 
 -------------------------------------------------
 
