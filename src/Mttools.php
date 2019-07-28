@@ -9,6 +9,7 @@ class Mttools
 	
 	public function format()
 	{
-		return 'miaotiao/Mttools format';
+		$name = 'miaotiao';
+		return $name.' Mttools format';
 	}
 }
