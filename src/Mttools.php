@@ -10,6 +10,7 @@ class Mttools
 	public function format()
 	{
 		$name = 'miaotiao';
-		return $name.' Mttools format';
+		$method = ' Mttools format';
+		return $name.$method;
 	}
 }
