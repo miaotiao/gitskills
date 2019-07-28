@@ -1,0 +1,19 @@
+{
+    "name": "miaotiao/mttools",
+    "description": "a php-toolkit,simple and powerful",
+    "type": "lib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "miaotiao",
+            "email": "1397701721@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "mttools\\": "src/"
+        }
+    }
+}
